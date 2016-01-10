@@ -12,6 +12,8 @@ ExSpotify is still in progress.
 - User profile
 
 ### TODO
+- Tests
+
 **Not authorized**
 - Pagination
 - Docs
