@@ -4,20 +4,22 @@ ExSpotify is a simple Elixir wrapper for the Spotify web API.
 
 ExSpotify is still in progress.
 
-TODO:
+### Done
+- Albums
+- Artists
+- Tracks
+- Search
+- User profile
+
+### TODO
 **Not authorized**
--[x] Albums
--[x] Artists
--[x] Tracks
--[x] Search
--[x] User profile
--[ ] Pagination
--[ ] Docs
+- Pagination
+- Docs
 
 **Authorized**
--[ ] Browse
--[ ] Me
--[ ] Users
+- Browse
+- Me
+- Users
 
 ## Installation
 
